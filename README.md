@@ -1,4 +1,6 @@
-wp_plugin_template
+CAD Kickstarter Template for WP Plugins
 ==================
 
-A plugin template
+please follow standard
+
+http://code.tutsplus.com/tutorials/psr-huh--net-29314
