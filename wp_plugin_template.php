@@ -1,15 +1,15 @@
 <?php
 /*
 Plugin Name: WP Plugin Template
-Plugin URI: https://github.com/fyaconiello/wp_plugin_template
-Description: A simple wordpress plugin template
+Plugin URI: https://github.com/cad-uix/cad-plugin-kickstarter
+Description: A simple wordpress plugin template kickstarter
 Version: 1.0
-Author: Francis Yaconiello
-Author URI: http://www.yaconiello.com
+Author: CAD UIX
+Author URI: customadesign.com
 License: GPL2
 */
 /*
-Copyright 2012  Francis Yaconiello  (email : francis@yaconiello.com)
+Copyright 2015  Marcel badua  (email : marcel@customadesign.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
